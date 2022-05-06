@@ -1,2 +1,2 @@
 # seo
-SEO significa Search Engine Optimization.
+SEO = Search Engine Optimization.
