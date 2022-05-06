@@ -1,2 +1,2 @@
 # seo
-The study of Search Engine Optimization.
+SEO significa Search Engine Optimization.
