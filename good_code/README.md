@@ -61,3 +61,12 @@ function publishTweet(tweet) {
 }
 
 ```
+
+4. Avoid code duplication
+- use DRY (don't repeat yourself)
+- Every piece of knowledge or logic must have a single, unambiguous representation within a system.
+- use more arguments and less functions
+- do not use for loops every time
+
+5. Functions Should Only Do One Thing
+- Functions should do one thing and one thing only. Functions that do more than one thing are the root of all evil and one of the worst things we can encounter in code (together with nested ifs).
