@@ -1,2 +1,2 @@
-# seo
-SEO = Search Engine Optimization.
+# dev
+- The knowledge to be a good developer.
